@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="servicio">
+    <item>Peliqueria Canina-Felina</item>
+    <item>Guardaría</item>
+    <item>Adiestramento Canino</item>
+    <item>Paseo de Perros</item>
+    <item>Alimentación a Domicilio</item>
+    <item>Hospedaje para mascotas</item>
+</string-array>
+</resources>

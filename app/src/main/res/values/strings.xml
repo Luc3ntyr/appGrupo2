@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appGrupo2</string>
+    <string name="contrahint">Contraseña</string>
+    <string name="mailhint">Email</string>
+    <string name="loginbutton">Acceder</string>
+    <string name="btnreservar">Reservar</string>
+    <string name="btnlistar">Listar</string>
+    <string name="btnresenatitle">Reseñas</string>
+</resources>
